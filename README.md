@@ -1,4 +1,4 @@
-# openshift-kurs
-Einführung in Openshift - Installation und Administration
+# Openshift-kurs
+**Einführung in Openshift - Installation und Administration**
 Kurs an der Heinlein Akademie
 
